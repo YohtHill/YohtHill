@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @YohtHill  Call me Archi
-- 👀 I’m interested in 
-- 🌱 I’m currently learning stm32 analog circuits and digital circuits
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-YohtHill/YohtHill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @YohtHill — you can call me Archi
+- 🎓 Electronic Information Engineering student
+- 👀 Interested in Embedded Systems, IoT, and Smart Home Technology
+- 🌱 Currently learning STM32, Analog & Digital Circuits, and Embedded Development
+- 🔧 Working on hardware projects involving sensors, power circuits, and microcontrollers
+- 💞️ Open to collaboration on IoT devices and embedded systems
+- 📫 Email: pjkyoht716@gmail.com
+- ⚡ Fun fact: My nickname Archi is inspired by Archimedes
